@@ -7,6 +7,6 @@
 
 ## 📫 Connect With Me
 - 📧 Email: hamedsamya789@gmail.com
-- 🌐 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile) *(replace this)*
+- 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/samya-hamed-7a10b7318/) 
 
 Thanks for visiting! 😊
