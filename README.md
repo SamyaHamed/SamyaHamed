@@ -1,12 +1,27 @@
-# 👋 Hello, I'm Samya Hamed!
+## 👋 Welcome to My GitHub!
 
-🎓 I'm a 5th-year Computer Engineering student at An-Najah National University.  
-💻 I work on both software and hardware projects.  
-🌐 I'm passionate about Embedded Systems, IoT, and Web Development.
+![Welcome](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
+---
+
+## 👩‍💻 About Me
+
+🎓 **Samya Hamed**  
+🛠️ 5th-year Computer Engineering student at **An-Najah National University**
+
+💻 I love working on both **software** and **hardware** projects.  
+🔌 My interests include **Embedded Systems**, **IoT**, and **Web Development**.  
+🚀 I’m always looking to learn and build real-world solutions.
+
+---
 
 ## 📫 Connect With Me
-- 📧 Email: hamedsamya789@gmail.com
+
+- 📧 **Email**: hamedsamya789@gmail.com  
 - 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/samya-hamed-7a10b7318/) 
 
-Thanks for visiting! 😊
+---
+
+> 😊 Thanks for visiting my profile! Feel free to check out my projects and leave a star ⭐ if you like them!
+
+
