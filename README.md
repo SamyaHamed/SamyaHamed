@@ -16,11 +16,11 @@
 
 ##  About Me
 
-> *"I love working on both software and hardware — building things that actually work in the real world."*
+> *"I love building systems that solve real-world problems and create meaningful impact."*
 
-I'm a **Backend Engineer** and **Computer Engineering student** at **An-Najah National University**, Nablus, Palestine 🇵🇸 with a **GPA of 3.33**.
+I'm a **Backend Engineer** focused on building backend systems, REST APIs, and scalable applications with an emphasis on performance, reliability, and clean architecture.
 
-I build backend systems, REST APIs, and have hands-on experience bridging software with hardware (yes, I've wired up Arduinos too). Currently sharpening my skills through backend training at **MENA Analytics** and always looking for the next challenge.
+Always learning, improving, and looking for the next challenge.
 
 - 🎓 Graduated — Computer Engineering @ An-Najah National University (2021–2026)
 - 🔧 Interests: **Backend Development**, **Web Development**
